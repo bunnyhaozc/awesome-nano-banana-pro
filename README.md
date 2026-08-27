@@ -1,5 +1,5 @@
 Last updated on 2026-08-26 00:46:18
-#### Please also check out 👉 [this awesome repo of Seedance 2.0 prompts!](https://github.com/ZeroLu/awesome-seedance) 👈
+#### Please also check out 👉 [this awesome repo of Gpt Image2 prompts!](https://github.com/bunnyhaozc/awesome-gpt-image-2) 👈
 
 # Awesome Nano Banana Pro 🍌
 
