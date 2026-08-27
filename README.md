@@ -1,28 +1,21 @@
-Last updated on 2026-08-26 00:46:18
-#### Please also check out 👉 [this awesome repo of Gpt Image2 prompts!](https://github.com/bunnyhaozc/awesome-gpt-image-2) 👈
+Last updated on 2026-08-27
+#### Please also check out 👉 [this awesome repo of GPT Image 2 prompts!](https://github.com/bunnyhaozc/awesome-gpt-image-2) 👈
 
 # Awesome Nano Banana Pro 🍌
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-nanobanana-pro?style=social)](https://github.com/ZeroLu/awesome-nanobanana-pro/stargazers) [![AtomGitStars](https://atomgit.com/ZeroLuAtom/awesome-nanobanana-pro/star/badge.svg)](https://atomgit.com/ZeroLuAtom/awesome-nanobanana-pro)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/bunnyhaozc/awesome-nanobanana-pro?style=social)](https://github.com/bunnyhaozc/awesome-nanobanana-pro/stargazers)
 
-> A curated collection of the **best Nano Banana prompts**, image generation styles, and resources for advanced AI visual experiments.
+> A curated collection of the **best Nano Banana Pro prompts**, image generation styles, and resources for advanced AI visual experiments.
 
-This repository focuses on **high-fidelity image prompts** sourced from X (Twitter), WeChat, Replicate, and top prompt engineers. Whether you are looking for **photorealistic portraits**, **stylized aesthetics**, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of the model. 
+This repository focuses on **high-fidelity image prompts** sourced from X (Twitter), WeChat, Replicate, and top prompt engineers. Whether you are looking for **photorealistic portraits**, **stylized aesthetics**, or complex creative experiments, you will find the most effective inputs here to unlock the full potential of the model.
 
-### Sponsor1
+### Featured Tool
 
 | Image | Description |
 | :---: | :--- |
-| <img width="400" alt="image" src="https://github.com/user-attachments/assets/39087148-9caa-4b37-8563-2da68df19713" /> | Thanks to APIMart for sponsoring this project! APIMart is a low-cost API platform for AI image & video generation — GPT-Image-2 from $0.006/image, 160+ images per dollar. One async API covers both image and video: submit a task, get an ID, fetch results via polling or callback. Batch tens of thousands of images without timeouts, switch models without changing code. Pay-as-you-go with no monthly fee — [sign up here](https://go.apimart.ai/gh-awesome-nanobanana-pro) to get started. |
+| [**Image2 AI**](https://image2-ai.com/) | Looking for an easy way to generate and edit AI images? **Image2 AI** provides online AI image generation and editing tools. [Try Image2 AI →](https://image2-ai.com/) |
 
-### Sponsor2
-[![Cyberbara Ad](./assets/cyberbara-real-face-upload-banner.webp)](https://cyberbara.com/seedance2.0?utm_source=banana)
-
-> **💡 Struggle with Seedance 2.0 Face Detection?**
-> Cyberbara now supports **real face uploads without limits!** Plus, up to 20% off official Seedance 2.0. [Unlock your limits at cyberbara.com →](https://cyberbara.com/seedance2.0?utm_source=banana)
-
-
-This repo gets up to **20,000 visitors per day**, [mail me](mailto:iamzerolu@gmail.com) if you want a limited sponsor slot!
+Explore more AI image generation tools at 👉 [**image2-ai.com**](https://image2-ai.com/)
 
 ## 📖 Table of Contents
 
